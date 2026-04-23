@@ -23,7 +23,7 @@ public class Docfile {
                 System.out.print(x + " ");
             }
 
-            // Lấy X (ký tự cuối MSSV)
+            // Tìm số cuối  X MSSV 65130907
             Scanner sc = new Scanner(System.in);
             System.out.print("\nNhập mã SV: ");
             String maSV = sc.nextLine();
