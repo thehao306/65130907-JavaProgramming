@@ -9,7 +9,7 @@ public class MainSinhVien {
 
         // Hard-code 3 sinh viên
         ds.add(new SinhVien("SV01", "TranTheHao", 2005, 8.0));
-        ds.add(new SinhVien("SV02", "Tran Van B", 2005, 7.5));
+        ds.add(new SinhVien("SV02", "Tran Van B", 2005, 7.5)); 
         ds.add(new SinhVien("SV03", "Le Van C", 2005, 9.0));
 
         System.out.println("Danh sách ban đầu:");

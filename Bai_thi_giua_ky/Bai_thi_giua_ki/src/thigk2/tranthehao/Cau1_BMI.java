@@ -1,6 +1,6 @@
 package thigk2.tranthehao;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class Cau1_BMI {
     public static void main(String[] args) {
